@@ -235,7 +235,7 @@ Resume](https://drive.google.com/file/d/1qVfSVHZDJhUIKAZdCIWKY_VocL4NMbPm/view?u
 <div align="center">
   <!--[![GitHub Streak]-->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?Amanj-18&theme=dark"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Amanj-18&theme=dark"
     width="48%"
   />
   <img
